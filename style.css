@@ -7,7 +7,7 @@ body {
 }
 
 #conteiner {
-    height: 100vh;
+    height: max-content;
     max-width: 1000px;
     background-color: white;
     margin: auto;
@@ -62,4 +62,23 @@ body {
     margin: 20px 0;
 }
 
+.important {
+    background-color: yellow;
+}
+
 /*ricordati di allineare l'elenco*/
+
+table{
+    margin-top: 20px;
+}
+
+thead {
+    background-color: rgb(32 169 229);
+    color: white;
+    margin-right: 0;
+}
+
+#first-row, #third-row {
+    background-color: rgb(177 229 242);
+}
+/*tabella da adattare*/

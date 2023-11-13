@@ -14,7 +14,7 @@ body {
 }
 
 #page {
-    width: 700px;
+    width: 680px;
     margin: auto;
 }
 
@@ -28,4 +28,18 @@ body {
 #logo {
     height: 30px;
     margin-top: 20px; /*ho usato il margin piuttosto che position relative/absolute non sapendo se posso già andare a toccare quelle regole di css*/
+}
+
+#article-title {
+    margin-top: 20px;
+}
+
+#reference {
+    font-size: 12px;
+    color: gray;
+}
+
+#reference > a {
+    color: rgb(60 195 239);
+    text-decoration: none;
 }

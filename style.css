@@ -43,3 +43,17 @@ body {
     color: rgb(60 195 239);
     text-decoration: none;
 }
+
+/*main*/
+
+.photo {
+    margin-top: 20px;
+}
+
+.tim-image {
+    height: 230px;
+}
+
+#credit {
+    font-size: 10px;
+}

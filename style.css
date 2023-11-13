@@ -7,26 +7,24 @@ body {
 }
 
 #conteiner {
-    height: max-content;
-    max-width: 1000px;
     background-color: white;
     margin: auto;
 }
 
 #page {
-    width: 680px;
+    width: 1000px;
     margin: auto;
 }
 
 #logo-background {
-    height: 70px;
+    height: 90px;
     background-color: rgb(78 160 255);
     background-image: url(img/pattern.png);
-    background-size: 210px; 
+    background-size: 300px; 
 }
 
 #logo {
-    height: 30px;
+    height: 50px;
     margin-top: 20px; /*ho usato il margin piuttosto che position relative/absolute non sapendo se posso già andare a toccare quelle regole di css*/
 }
 
@@ -51,7 +49,7 @@ body {
 }
 
 .tim-image {
-    height: 230px;
+    height: 350px;
 }
 
 #credit {

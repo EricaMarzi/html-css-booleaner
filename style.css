@@ -88,3 +88,29 @@ thead {
     background-color: rgb(177 229 242);
 }
 
+#footer-title {
+    color: gray;
+    margin: 20px 0;
+}
+
+.footer-image {
+    width: 275px;
+    height: 200px;
+    margin-bottom: 10px;
+    background-position: center;
+}
+
+.image-descriptor {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.desktop {
+    background-image: url(img/monitor.jpg);
+}
+
+.graphic {
+    background-image: url(img/graph.jpg);
+}

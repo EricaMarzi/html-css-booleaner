@@ -66,22 +66,27 @@ body {
     background-color: yellow;
 }
 
-/*ricordati di allineare l'elenco*/
 ul {
     padding: 15px;
 }
 
 table{
     margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.row {
+    width: 250px;
 }
 
 thead {
     background-color: rgb(32 169 229);
     color: white;
     margin-right: 0;
+    text-align: left;
 }
 
 #first-row, #third-row {
     background-color: rgb(177 229 242);
 }
-/*tabella da adattare*/
+

@@ -6,17 +6,20 @@ body {
     background-color: lightgray; /*così vedi i box*/
 }
 
-#contenitore {
+#conteiner {
     height: 100vh;
     max-width: 1000px;
     background-color: white;
     margin: auto;
 }
 
-#intestazione {
-    height: 70px;
+#page {
     width: 700px;
     margin: auto;
+}
+
+#logo-background {
+    height: 70px;
     background-color: rgb(78 160 255);
     background-image: url(img/pattern.png);
     background-size: 210px; 
